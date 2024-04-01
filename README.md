@@ -42,17 +42,23 @@ bundle exec pry -r ./config/environment
 
 ### Notes from Patrick Kim
 Wanted to showcase my work through agile environment using JIRA and PRs.
-![JIRA](https://gyazo.com/ff43e22286fe3b5ad4bcd6a76dfb96a3)
+![JIRA]([https://gyazo.com/ff43e22286fe3b5ad4bcd6a76dfb96a3](https://i.gyazo.com/ff43e22286fe3b5ad4bcd6a76dfb96a3.png))
+
 I have utilized JIRA to show an example of creating a story in a sprint.
 
 With story in mind, I utilized the name of the story (TSSC-1) [TSSC means Teachstone: Sneaky Cats], to create PRs.
 
 Here are the list of PRs according to each issue:
 Issue 1 - TSSC-1_user_reset_password (https://github.com/pkim050/tier3-tech-quiz/tree/TSSC-1_user_reset_password)
+
 Issue 2 - TSSC-2_javascript_pop_up_issue (https://github.com/pkim050/tier3-tech-quiz/tree/TSSC-2_javascript_pop_up_issue)
+
 Issue 3 - TSSC-3_javascript_error (https://github.com/pkim050/tier3-tech-quiz/tree/TSSC-3_javascript_error)
+
 Issue 4 - TSSC-4_session_issue (https://github.com/pkim050/tier3-tech-quiz/tree/TSSC-4_session_issue)
+
 Issue 5 - TSSC-5_user_index_issue (https://github.com/pkim050/tier3-tech-quiz/tree/TSSC-5_user_index_issue)
+
 Issue 6 - TSSC-6_order_issue (https://github.com/pkim050/tier3-tech-quiz/tree/TSSC-6_order_issue)
 
 Thank you so much for this opportunity, it has been a lot of fun. The instructions on getting the application running
